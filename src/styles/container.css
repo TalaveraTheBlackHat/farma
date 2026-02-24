@@ -1,0 +1,37 @@
+ body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            margin-top: 30px;
+        }
+        .card {
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .card-header {
+            background: rgb(52, 155, 21);
+            color: #fff;
+            font-weight: bold;
+            text-align: center;
+            border-top-left-radius: 12px;
+            border-top-right-radius: 12px;
+        }
+        .card-body p {
+            margin: 0;
+        }
+        .btn-custom {
+            background: rgb(52, 155, 21);
+            color: white;
+            width: 100%;
+            border-radius: 12px;
+        }
+        .btn-custom:hover {
+            background: rgb(52, 155, 21);
+        }
+
+        .logo{
+        width:    4.8cm;
+        height:   2cm;
+        left: 80%;
+        }
